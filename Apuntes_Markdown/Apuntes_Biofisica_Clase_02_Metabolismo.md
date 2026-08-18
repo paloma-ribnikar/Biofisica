@@ -20,7 +20,9 @@
 ### 1.1 El Organismo Vivo como Sistema Abierto (Anotaciones de Margen)
 - **Sistema Abierto:** El organismo viviente es un sistema abierto que intercambia continuamente **materia y energía** con su entorno:
   - **Intercambio de Energía:** Entrada de energía lumínica (en plantas) y química (en alimentos); salida de calor disipado y trabajo mecánico.
-  - **Intercambio de Materia:** Incorporación de nutrientes, agua y aire a través de la **ventilación pulmonar ($\text{O}_2$)**; eliminación de dióxido de carbono ($\text{CO}_2$), urea y desechos.
+  - **Intercambio de Materia:**
+  - **Incorporación:** Nutrientes y agua a través de la **ingestión (sistema digestivo)**; oxígeno ($\text{O}_2$) a través de la **ventilación pulmonar (sistema respiratorio)**.
+  - **Eliminación:** Dióxido de carbono ($\text{CO}_2$) a través de la espiración pulmonar; urea, sales y desechos metabólicos a través de la **excreción renal (orina)**, la materia fecal y la **sudoración**.
 - **Metabolismo:** Conjunto de todas las reacciones bioquímicas y procesos fisicoquímicos organizados que ocurren en la célula y el organismo.
 - **Factores Físico-Químicos que Afectan la Función Proteica:**
   - *Anotación explícita de margen:* Las reacciones metabólicas tienden a **modificar el pH y la Temperatura** del medio.
@@ -36,7 +38,9 @@
          +-----------------------+-----------------------+
          |                                               |
   INTERCAMBIO DE MATERIA                         INTERCAMBIO DE ENERGÍA
-(Ventilación pulmonar O2, Nutrientes)           (Entrada de E química/luz, Salida de Calor/Trabajo)
+- Ingestión Digestiva: Nutrientes y H2O          - Entrada: E Química (Alimentos) / Luz
+- Ventilación Pulmonar: Oxígeno (O2)             - Salida: Calor Disipado / Trabajo
+- Excreción: CO2 (Pulmón), Urea/H2O (Riñón)
          |                                               |
          +-----------------------+-----------------------+
                                  |
