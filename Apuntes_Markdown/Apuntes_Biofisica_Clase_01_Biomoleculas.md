@@ -7,11 +7,11 @@
 > Este documento constituye un compendio **ultra detallado y explícito** de la **Clase 01 de Biofísica**. Ha sido redactado integrando de forma rigurosa:
 > 1. Las transcripciones textuales de los audios grabados en el aula.
 > 2. Las diapositivas de los PowerPoints (*Biomoléculas 1* y *Biomoléculas 2*).
-> 3. Las anotaciones manuscritas tomadas en clase sobre los PDFs.
+> 3. **Todas las anotaciones y esquemas manuscritos hechos en los márgenes de las diapositivas**.
 > 4. Los resúmenes y apuntes de cursadas anteriores (archivos de Ita y compañeros).
 > 5. Los requerimientos conceptuales observados en las autoevaluaciones oficiales.
 > 
-> No se ha omitido ningún detalle, aclaración del profesor, analogía, fórmula ni excepción explicada en clase, para que puedas estudiar, repasar y resolver las autoevaluaciones sin necesidad de recurrir a fuentes externas.
+> No se ha omitido ningún detalle, aclaración del profesor, anotación de margen, analogía, fórmula ni excepción explicada en clase, para que puedas estudiar, repasar y resolver las autoevaluaciones sin necesidad de recurrir a fuentes externas.
 
 ---
 
@@ -63,9 +63,32 @@ En biofísica se analizan fenómenos en un abanico de escalas extremadamente amp
 
 ---
 
-## 3. La Molécula de Agua ($\text{H}_2\text{O}$) y sus Propiedades Biofísicas
+## 3. Elementos, Tabla Periódica y Electronegatividad (Anotaciones de Margen)
 
-### 3.1 Estructura Molecular y Geometría
+### 3.1 Estructura Atómica y Número Atómico ($Z$)
+- **Número Atómico ($Z$):** Es lo que determina el orden de los elementos en la Tabla Periódica. Corresponde al **número de protones** en el núcleo ($Z = \#p^+$).
+- **Elemento Neutro:** La cantidad de protones es igual a la cantidad de electrones ($\#p^+ = \#e^-$).
+- **¿Por qué los pesos atómicos de la tabla tienen decimales (ej. $20,3\text{ g/mol}$)?**  
+  *Anotación de margen:* Porque el peso atómico expresado en la tabla es el **promedio ponderado de la abundancia isotópica** de dicho elemento en la naturaleza.
+  - *Ejemplo práctico anotado:* Si un elemento presenta tres isótopos: de masa $24$ (abundancia $90\%$), masa $23$ ($8\%$) y masa $25$ ($2\%$), su peso atómico ponderado se calcula como:
+    $$\text{Peso} = (24 \times 0,90) + (23 \times 0,08) + (25 \times 0,02) = 21,6 + 1,84 + 0,50 = 23,94\text{ g/mol}$$
+
+### 3.2 Regla del Octeto y Estabilidad Química
+- Los electrones se distribuyen en orbitales. El elemento alcanza la **máxima estabilidad** cuando su último orbital está completo (8 electrones de valencia).
+- **Gases Nobles / Inertes:** Elementos del grupo VIII A (Helio, Neón, Argón) que poseen su último orbital completo. Tienden a no reaccionar con nadie.
+
+### 3.3 Electronegatividad y Escala de Pauling
+- **Electronegatividad:** Tendencia de un átomo a atraer hacia sí los electrones de un enlace. Coeficiente de Pauling.
+- **Comportamiento en la Tabla Periódica:**
+  - **Elementos a la derecha y arriba (No metales, Halógenos como Flúor, Cloro):** Muy electronegativos. Les falta $1\text{ e}^-$ para completar su octeto (parecerse al gas noble más cercano), por lo que tienden fuertemente a ganar electrones para formar **aniones** ($\text{Cl}^-$).
+  - **Elementos a la izquierda y abajo (Metales como Sodio, Potasio, Litio):** Muy electropositivos (poco electronegativos). Tienden a perder electrones para alcanzar la configuración del gas noble anterior, formando **cationes** ($\text{Na}^+$, $\text{Ca}^{2+}$ catión divalente).
+- **El Átomo de Carbono ($\text{C}$):** Posee 4 electrones de valencia (le faltan $4\text{ e}^-$ para el octeto de 8). Tiene una **electronegatividad moderada ($\approx 2,55$)**, lo que le permite compartir electrones mediante enlaces covalentes estables para formar cadenas y redes carbonadas biológicas.
+
+---
+
+## 4. La Molécula de Agua ($\text{H}_2\text{O}$) y sus Propiedades Biofísicas
+
+### 4.1 Estructura Molecular y Geometría
 - **Composición:** Formada por dos átomos de Hidrógeno ($\text{H}$) y un átomo de Oxígeno ($\text{O}$).
 - **Geometría angular:** La molécula no es lineal ($180^\circ$). Debido a la disposición de los orbitales híbridos del Oxígeno y la repulsión ejercida por sus dos pares de electrones no enlazantes, los enlaces $\text{O-H}$ forman un ángulo característico de aproximadamente **$104,5^\circ - 105^\circ$**.
 - **Enlaces Covalentes Intramoleculares:** Los átomos de $\text{H}$ y $\text{O}$ se unen mediante enlaces covalentes sencillos. Son uniones **intramoleculares** (dentro de la misma molécula) y sumamente fuertes.
@@ -78,47 +101,39 @@ En biofísica se analizan fenómenos en un abanico de escalas extremadamente amp
 (δ+) H     H (δ+)
 ```
 
-### 3.2 Polaridad y Momento Dipolar
-- **Electronegatividad:** Capacidad de un átomo para atraer hacia sí los electrones compartidos en un enlace covalente.
-  - Oxígeno ($\text{O}$): Muy electronegativo ($\approx 3,44$ en la escala de Pauling).
-  - Hidrógeno ($\text{H}$): Moderadamente electropositivo ($\approx 2,20$).
-- **Distribución de carga:** Los electrones compartidos son atraídos con mayor fuerza hacia el núcleo del Oxígeno. Se forma una nube electrónica asimétrica:
-  - Densidad de carga parcial negativa ($\delta^-$) sobre el Oxígeno.
-  - Densidad de carga parcial positiva ($\delta^+$) sobre cada uno de los Hidrógenos.
-- **Análisis Vectorial del Dipolo:**
-  - El vector de momento dipolar apunta desde el centro electropositivo ($\text{H}$) al electronegativo ($\text{O}$).
-  - Como los dos vectores no forman un ángulo de $180^\circ$, la suma vectorial **no da cero** ($\vec{\mu}_{neto} \neq 0$).
-  - Por ende, el agua es un **dipolo permanente**. Al colocarla en un campo eléctrico (por ejemplo, entre las placas cargadas de un condensador), las moléculas se orientan alineando sus cargas parciales con el campo exterior.
+### 4.2 Polaridad, Análisis Vectorial y Momento Dipolar (Anotaciones de Margen)
+- **Metano ($\text{CH}_4$):** Aunque el Carbono es más electronegativo que el Hidrógeno, los 4 vectores dipolares apontan al centro en disposición tetraédrica y **se anulan mutuamente** ($\vec{\mu} = 0$). Es una molécula **NO polar**.
+- **Clorometano ($\text{CH}_3\text{Cl}$):** El Cloro es fuertemente electronegativo. Los vectores dipolares no se anulan, sino que se suman hacia el Cloro. Es una **molécula POLAR**.  
+  *Aclaración de margen:* El Cloro posee una *densidad de carga parcial negativa* ($\delta^-$), lo cual es distinto a tener una carga neta formal de $-1$ (un electrón extra).
+- **Dióxido de Carbono ($\text{CO}_2$):** Molécula lineal ($\text{O=C=O}$). Los dos vectores hacia los Oxígenos tienen el mismo módulo y sentido opuesto, por lo que **se anulan**. Es una molécula **NO polar**.
+- **Agua ($\text{H}_2\text{O}$):** Al ser angular ($105^\circ$), los dos vectores de enlace hacia el Oxígeno generan un **vector resultante no nulo**. El agua es un **dipolo permanente**.  
+  *Anotación de margen:* En presencia de un campo eléctrico externo, los dipolos de agua **se alínean con el campo**.
+  - **Momento Dipolar ($m$):** Es el producto de la densidad de carga por la distancia entre polos ($m = d \cdot \delta$). Unidades en Coulomb por metro ($\text{C}\cdot\text{m} \approx 10^{-30}$). A mayor momento dipolar, mayor es la capacidad de la molécula para alinearse en un campo eléctrico.
 
-### 3.3 Puentes de Hidrógeno (Uniones Intermoleculares)
-- **Mecanismo:** Fuerza de atracción electrostática intermolecular entre el polo negativo ($\delta^-$) del Oxígeno de una molécula de agua y el polo positivo ($\delta^+$) del Hidrógeno de una molécula vecina.
-- **Características:**
-  - Son uniones **intermoleculares** (entre distintas moléculas).
-  - Individualmente son débiles en comparación con un enlace covalente, pero por su inmenso número colectivo generan una red altamente cohesionada.
-  - Tienen una vida media muy corta en agua líquida (se rompen y reforman continuamente), pero restringen fuertemente la rotación y el movimiento libre de las moléculas de agua.
+```
+METANO (CH4)          CLOROMETANO (CH3Cl)       DIÓXIDO DE CARBONO (CO2)       AGUA (H2O)
+   Vectors            Vector Sum != 0              O <--- C ---> O           Vector Resultante
+  Cancel out           (POLAR, δ- en Cl)            Vectors Cancel out          (POLAR PERMANENTE)
+  (NO POLAR)                                           (NO POLAR)
+```
+
+### 4.3 Puentes de Hidrógeno (Uniones Intermoleculares)
+- **Mecanismo:** Atracción electrostática entre la densidad parcial negativa ($\delta^-$) del Oxígeno de una molécula de agua y la densidad parcial positiva ($\delta^+$) del Hidrógeno de una molécula vecina.
+- **Diferencia clave:** Son uniones **intermoleculares** (entre moléculas distintas), a diferencia de las covalentes que son intramoleculares.
+- **Restricción Rotacional (Anotación de margen):** En fase líquida, las moléculas están en rotación constante. Al entregar calor, este se convierte en Energía Cinética ($E_c$) de rotación y traslación. En el agua, las moléculas sufren una "ligera traba" por los puentes de H.
+  - *Comparación anotada:* Si calentamos $1\text{ g}$ de agua y $1\text{ g}$ de aceite con mecheros idénticos, la temperatura del aceite subirá mucho más rápido porque sus moléculas no están trabadas por puentes de H y adquieren $E_c$ fácilmente.
 
 ---
 
-### 3.4 Propiedades Biofísicas del Agua y su Relevancia Biológica
+### 4.4 Propiedades Biofísicas del Agua y su Relevancia Biológica
 
 #### A. Anomalía de la Densidad y Comportamiento Térmico
 - **Definición de densidad:** $\rho = \frac{\text{masa}}{\text{volumen}}$ ($\text{g/cm}^3$ o $\text{kg/m}^3$).
 - **Comportamiento anómalo:**
-  - En la mayoría de los líquidos, al descender la temperatura aumenta la densidad (disminuye el volumen).
+  - En la mayoría de los líquidos, al descender la temperatura aumenta la densidad.
   - En el agua pura, entre $0^\circ\text{C}$ y $4^\circ\text{C}$, al aumentarse la temperatura **aumenta la densidad**.
   - **El agua alcanza su MÁXIMA DENSIDAD A $4^\circ\text{C}$ ($1,000\text{ g/cm}^3$)**.
   - A $0^\circ\text{C}$ (fase sólida/hielo), los puentes de hidrógeno estabilizan una red cristalina de geometría hexagonal muy abierta. Esto expande el volumen del hielo, haciéndolo **menos denso que el agua líquida a $4^\circ\text{C}$**.
-
-```
-   Densidad (g/cm³)
-     ^
-1.00 |          * (Máximo en 4°C = 1.000 g/cm³)
-     |        /   \
-     |  hielo/     \  Agua líquida caliente
-     |  (0°C)       \
-     +---------------------> Temperatura (°C)
-        0°C   4°C
-```
 
 - **Relevancia Biológica y Ecológica (Principio de Arquímedes):**
   - Dado que la densidad del hielo es menor que la del agua a $4^\circ\text{C}$, **EL HIELO FLOTA**.
@@ -137,7 +152,7 @@ En biofísica se analizan fenómenos en un abanico de escalas extremadamente amp
 - **Definición de Calor Específico:** Cantidad de energía en forma de calor ($Q$) que se debe entregar a una unidad de masa de sustancia para elevar su temperatura en $1^\circ\text{C}$.
   $$Q = m \cdot c \cdot \Delta T$$
 - **Valor del agua:** $c_{agua} = 1\text{ cal/g}^\circ\text{C}$ (en comparación: alcohol etílico $0,6$, glicerina $0,58$, arena seca $0,19$, hierro $0,109$).
-- **Fundamento físico:** Los puentes de hidrógeno traban el movimiento libre rotacional y traslacional de las moléculas de agua. Gran parte de la energía térmica entregada se consume en tensionar/romper puentes de H antes de aumentar la velocidad cinética promedio (que es lo que mide el termómetro como temperatura).
+- **Fundamento físico:** Los puentes de hidrógeno restringen la libertad cinético-rotacional de las moléculas. Se necesita entregar mucha energía térmica para romper/superar estas restricciones antes de aumentar la velocidad cinética promedio (que es lo que mide el termómetro como temperatura).
 - **Relevancia Biológica:**
   - El agua funciona en los organismos como un **buffer térmico (tampón térmico)**. Al ser el $70\%$ de nuestra masa corporal agua, la temperatura corporal tiende a fluctuar muy poco ante cambios de calor externo.
   - *Analogía del radiador:* Los motores de autos usan agua y no aceite en el radiador porque al agua hay que entregarle inmensas cantidades de calor para que suba su temperatura, evitando el recalentamiento.
@@ -157,110 +172,52 @@ En biofísica se analizan fenómenos en un abanico de escalas extremadamente amp
 #### D. Cohesión, Adhesión, Tensión Superficial ($\gamma$) y Capilaridad
 - **Cohesión:** Fuerza de atracción entre moléculas de la misma sustancia (agua-agua).
 - **Adhesión:** Fuerza de atracción entre moléculas de sustancias distintas en contacto (agua-vidrio).
-- **Origen de la Tensión Superficial:**
-  - Las moléculas del seno del líquido están rodeadas homogéneamente por otras moléculas en todas direcciones (fuerzas de atracción equilibradas).
-  - Las moléculas situadas en la **interfaz líquido-gas** sufren fuerzas no equilibradas: atraídas fuertemente por las de abajo y los costados, pero no por las del gas.
-  - Desde la termodinámica, todo sistema tiende al menor estado de energía libre (mayor estabilidad). Las moléculas de la superficie poseen mayor energía que las del interior, por lo que la superficie es inestable.
-  - Por ello, el sistema busca minimizar el área superficial. La forma geométrica que ofrece la **menor relación superficie/volumen es la esfera**. Por esta razón, el agua forma gotas esféricas.
-- **Tensión Superficial:** Fuerza paralela a la superficie que se opone al aumento del área superficial.
-  - Actúa como una "malla o membrana elástica". Permite que objetos más densos que el agua (como una aguja o ciertos insectos zapateros) reposen sobre la superficie sin hundirse (este fenómeno **no se debe al Principio de Arquímedes**, sino a la tensión superficial).
-  - *Comparación:* El mercurio ($\text{Hg}$) posee una tensión superficial extremadamente alta (mucho mayor que el agua). Al romperse un termómetro de mercurio, forma esferas perfectas que no mojan ni se desparraman. El alcohol tiene menor tensión superficial que el agua.
+- **Origen de la Tensión Superficial (Anotaciones de Margen):**
+  - Las moléculas en el seno del líquido están equilibradas por fuerzas homogéneas en todas direcciones.
+  - En la **interfaz líquido-gas**, las moléculas superiores no tienen vecinas por arriba, sufriendo una atracción neta hacia el interior. Esta superficie tiene mayor energía potencial y es inestable.
+  - Termodinámicamente, todo sistema busca el estado de menor energía (mayor estabilidad). Para un volumen dado, la geometría con **menor área superficial por unidad de volumen es la esfera**. Por eso el agua forma gotas esféricas.
+  - *Comparación anotada de vasos:* Un vaso ancho tiene más superficie de contacto que uno angosto, por lo que posee mayor número de moléculas inestables en la superficie y es termodinámicamente más inestable.
+- **Tensión Superficial:** Fuerza paralela a la superficie que tiende a que el área superficial no aumente.
+  - Permite que objetos delgados o insectos zapateros reposen sobre el agua. *Anotación explícita:* **Esto NO tiene nada que ver con el Principio de Arquímedes ni con la flotabilidad**, sino con la tensión superficial actuando como una malla elástica.
+  - *Comparación:* El mercurio ($\text{Hg}$) posee una tensión superficial inmensa (la más alta conocida). Al romperse un termómetro, forma esferitas perfectas que no mojan ni se derraman. El alcohol tiene menor tensión superficial.
 - **Capilaridad y Ascenso Capilar:**
-  - Depende del balance entre fuerzas adhesivas y cohesivas:
-    - **Caso del Agua en tubo de vidrio:** Las fuerzas adhesivas (agua-vidrio) son mayores que las fuerzas cohesivas (agua-agua). El agua "trepa" por las paredes de un tubo fino (capilar) formando un **menisco cóncavo**.
-    - **Caso del Mercurio en tubo de vidrio:** Las fuerzas cohesivas son mayores que las adhesivas. El mercurio se deprime formando un **menisco convexo**.
-  - *Importancia biológica y de laboratorio:*
-    - Permite extraer muestras de sangre por punción capilar en bebés con tubos de vidrio micro-capilares.
-    - Fundamenta el ascenso de savia y agua en vegetales pequeños y tejidos vasculares por capilaridad.
+  - **Agua en tubo de vidrio:** Fuerzas adhesivas (agua-vidrio) $>$ fuerzas cohesivas (agua-agua). El agua trepa formando un **menisco cóncavo**.
+  - **Mercurio en tubo de vidrio:** Fuerzas cohesivas $>$ adhesivas. Menisco convexo, no sube.
+  - *Aplicación:* Extracción de sangre con tubos micro-capilares por punción. Ascenso de agua/savia en vegetales y pastos.
 
 #### E. Elevada Constante Dieléctrica ($\epsilon$) y Solvente Polar
-- **Constante Dieléctrica:** Capacidad de una sustancia para separar cargas eléctricas y debilitar las fuerzas electrostáticas entre iones. El agua posee una elevada constante dieléctrica ($\epsilon \approx 80$).
+- **Constante Dieléctrica:** Capacidad de una sustancia para separar cargas eléctricas y debilitar la atracción iónica. El agua posee una constante dieléctrica elevada ($\epsilon \approx 80$).
 - **Solvatación de Electrolitos:**
-  - Los electrolitos (sales como el $\text{NaCl}$) se disocian e ionizan completamente en agua.
-  - El $\text{NaCl}$ sólido se disuelve porque las moléculas de agua rodean al catión $\text{Na}^+$ dirigiendo hacia él sus átomos de Oxígeno ($\delta^-$), y rodea al anión $\text{Cl}^-$ dirigiendo hacia él sus átomos de Hidrógeno ($\delta^+$). Se forma una capa de hidratación o solvatación.
+  - Separa completamente las sales ($\text{NaCl} \rightarrow \text{Na}^+ + \text{Cl}^-$). Rodea al catión $\text{Na}^+$ con los átomos de Oxígeno ($\delta^-$), y al anión $\text{Cl}^-$ con los átomos de Hidrógeno ($\delta^+$).
 - **Solvente de sustancias polares:** Disuelve fácilmente moléculas hidrofílicas que poseen grupos polares (azúcares, alcoholes), pero repele sustancias no polares o lipídicas (aceites, grasas).
 
 ---
 
-## 4. Ácidos, Bases, pH y Sistemas Buffer
+## 5. Ácidos, Bases, pH y Sistemas Buffer
 
-### 4.1 Concepto de pH y Escala
-- **Ionización del agua:** $2\text{H}_2\text{O} \rightleftharpoons \text{H}_3\text{O}^+ + \text{OH}^-$ (representado simplemente como $\text{H}_2\text{O} \rightleftharpoons \text{H}^+ + \text{OH}^-$).
-- En agua pura a $25^\circ\text{C}$, la concentración de protones es $[\text{H}^+] = 10^{-7}\text{ M}$.
-- **Fórmula matemática del pH:**
-  $$\text{pH} = -\log_{10}[\text{H}^+]$$
+### 5.1 Concepto de pH y Escala
+- **Ionización del agua:** $2\text{H}_2\text{O} \rightleftharpoons \text{H}_3\text{O}^+ + \text{OH}^-$ (o $\text{H}_2\text{O} \rightleftharpoons \text{H}^+ + \text{OH}^-$).
+- En agua pura a $25^\circ\text{C}$, $[\text{H}^+] = 10^{-7}\text{ M} \implies \text{pH} = -\log_{10}[\text{H}^+] = 7$.
 - **Escala de pH (0 a 14):**
   - $\text{pH} = 7$: Solución neutra ($[\text{H}^+] = [\text{OH}^-] = 10^{-7}\text{ M}$).
   - $\text{pH} < 7$: Solución ácida ($[\text{H}^+] > 10^{-7}\text{ M}$).
   - $\text{pH} > 7$: Solución básica o alcalina ($[\text{H}^+] < 10^{-7}\text{ M}$).
 - **Escala Logarítmica:** Cada cambio de 1 unidad de pH equivale a una variación de **10 veces (un orden de magnitud)** en la concentración de $\text{H}^+$.
-  - Ejemplo: Un jugo gástrico a $\text{pH } 2$ tiene $100.000$ veces más concentración de protones que el agua a $\text{pH } 7$.
 
-### 4.2 pH del Medio Interno vs. Medios Externos
+### 5.2 pH del Medio Interno vs. Medios Externos
 - **pH del Medio Interno Sanguíneo:** El plasma sanguíneo se mantiene en un rango estricto de **$\text{pH } 7,35 - 7,45$** (ligeramente básico/alcalino, valor de referencia típico: **$7,4$**).
 - **Límites de supervivencia:** Variaciones mayores a $\pm 0,4$ unidades de pH en sangre ($\text{pH} < 7,0$ o $\text{pH} > 7,8$) producen coma y muerte.
 - **Aclaración Topológica del Profesor sobre Fluidos Ácidos Corporal:**
   - El jugo gástrico tiene $\text{pH } 1,5 - 2,0$ (altamente ácido).
   - La piel posee un $\text{pH } 4,5 - 5,5$ (manto ácido que actúa como barrera defensiva contra bacterias y patógenos).
   - La orina es ácida ($\text{pH } 5,5 - 6,5$).
-  - **¿Por qué esto no destruye el medio interno?** Porque la luz del tubo digestivo (de boca a ano) y la superficie cutánea son topológicamente **MEDIO EXTERNO**. Los contenidos estomacales o la orina no forman parte de la matriz intersticial o vascular del medio interno.
-
-```
-       [ENTORNO EXTERIOR]
-               |
-        (Boca / Tubo Digestivo / Estómago: pH 1.5 - 2.0)  <-- MEDIO EXTERNO
-               |
-=============== MEMBRANA / EPITELIO DE BARRERA ===============
-               |
-        (Tejido Intersticial / Plasma Sanguíneo: pH 7.4)   <-- MEDIO INTERNO
-```
-
-### 4.3 Sistemas Buffer (Amortiguadores o Tampones)
-- **Definición:** Mezcla en solución de un ácido débil y su base conjugada (o una base débil y su ácido conjugado) que amortigua y minimiza las variaciones bruscas de pH al adicionar un ácido o una base.
-- **Necesidad biológica:** En las células ocurren continuamente cientos de reacciones químicas que producen o consumen protones ($\text{H}^+$). Sin buffers, el pH celular fluctuaría descontroladamente inactivando las enzimas.
-- **Redundancia:** En el organismo no existe un único buffer, sino **múltiples sistemas amortiguadores simultáneos** (sistema bicarbonato/ácido carbónico en plasma, fosfatos en citosol, proteínas como la hemoglobina y la albúmina).
-
----
-
-## 5. Química Orgánica, el Átomo de Carbono y Grupos Funcionales
-
-### 5.1 El Átomo de Carbono ($\text{C}$)
-- **Tetravalencia:** Posee 4 electrones en su capa de valencia, lo que le otorga la capacidad de formar **4 enlaces covalentes** estables en disposición tetraédrica. Permite construir cadenas lineales, ramificadas y estructuras cíclicas ("redes carbonadas").
-- **Electronegatividad moderada ($\approx 2,55$):** Forma enlaces covalentes fuertes y estables con $\text{H}, \text{O}, \text{N}, \text{P}, \text{S}$. No tiende a ceder ni a arrancar electrones de forma violenta.
-
-### 5.2 Grupos Funcionales Bioquímicos
-
-| Grupo Funcional | Estructura | Propiedad Físico-Química | Ejemplo / Presencia Biológica |
-| :--- | :--- | :--- | :--- |
-| **Carboxilo** | $-\text{COOH} \rightleftharpoons -\text{COO}^- + \text{H}^+$ | Ácido, fuertemente polar e ionizable | Ácidos grasos, aminoácidos |
-| **Hidroxilo (Oxidrilo)** | $-\text{OH}$ | Polar, forma puentes de H | Azúcares (carbohidratos), glicerol, alcoholes |
-| **Carbonilo** | $-\text{C=O}$ | Polar. Aldehído (terminal) / Cetona (interno) | Monosacáridos (glucosa, fructosa) |
-| **Amino** | $-\text{NH}_2 \rightleftharpoons -\text{NH}_3^+$ | Básico, polar e ionizable | Aminoácidos, bases nitrogenadas |
-| **Fosfato** | $-\text{PO}_4^{3-}$ | Ácido, fuertemente polar y cargado (-) | Nucleótidos (ATP), fosfolípidos, ADN/ARN |
-| **Cadena Hidrocarbonada** | $-\text{CH}_2-\text{CH}_2-\text{CH}_3$ | No polar, hidrofóbica | Cadenas de ácidos grasos, esteroides |
-
-### 5.3 Carácter Anfipático
-- Una molécula es **anfipática** cuando posee simultáneamente una región hidrofílica (polar o cargada, soluble en agua) y una región hidrofóbica (no polar, insoluble en agua).
-- Ejemplos centrales: Fosfolípidos de membrana, ácidos biliares.
+  - **¿Por qué esto no destruye el medio interno?** Porque la luz del tubo digestivo (de boca a ano) y la superficie cutánea son topológicamente **MEDIO EXTERNO**. Los contenidos estomacales o la orina no forman parte de la matriz流动 del medio interno.
 
 ---
 
 ## 6. Las Cuatro Grandes Biomoléculas
 
-```
-                     BIOMOLÉCULAS BIOLÓGICAS
-                                |
-    +-------------------+-------+-------+-------------------+
-    |                   |               |                   |
-Hidratos de Carbono   Lípidos        Proteínas        Ácidos Nucleicos
-(Polímeros de         (No polímeros  (Polímeros de    (Polímeros de
- azúcares)             típicos)       aminoácidos)     nucleótidos)
-```
-
----
-
 ### 6.1 Hidratos de Carbono (Carbohidratos / Azúcares / Sacáridos)
-
 - **Fórmula General:** $(C \cdot H_2O)_n$ o $C_n H_{2n} O_n$.
 - **Propiedad Solubilidad:** Son moléculas **fuertemente polares** e hidrofílicas debido a su abundancia de grupos hidroxilo ($-\text{OH}$) y carbonilo ($-\text{C=O}$).
 - **Grado de Oxidación y Rendimiento Energético:**
@@ -273,7 +230,6 @@ Hidratos de Carbono   Lípidos        Proteínas        Ácidos Nucleicos
    - **Glucosa ($\text{C}_6\text{H}_{12}\text{O}_6$):** Aldohexosa. Principal sustrato energético celular.
    - **Fructosa ($\text{C}_6\text{H}_{12}\text{O}_6$):** Cetohexosa. Presente en frutas y miel.
    - **Ribosa ($\text{C}_5\text{H}_{10}\text{O}_5$) y Desoxirribosa ($\text{C}_5\text{H}_{10}\text{O}_4$):** Pentosas constituyentes de los nucleótidos de ARN y ADN.
-   - En solución acuosa, las pentosas y hexosas se ciclan formando anillos pentagonales (furanosas) o hexagonales (piranosas).
 2. **Disacáridos (Dímeros):**
    - Unidos por enlace glucosídico (enlace covalente entre grupos oxidrilo).
    - **Sacarosa:** Glucosa + Fructosa (azúcar común de mesa, altamente soluble).
@@ -290,194 +246,42 @@ Hidratos de Carbono   Lípidos        Proteínas        Ácidos Nucleicos
 - **Detalle Fisiológico sobre la Digestión de Celulosa (Rumiantes y Termitas):**
   - Los seres humanos y vertebrados no sintetizan la enzima **celulasa** necesaria para hidrolizar los enlaces $\beta-1,4$ de la celulosa.
   - Los **rumiantes** (vacas, ovejas) poseen una cámara gástrica especializada llamada **rumen** (digestor microbiano) que alberga bacterias y protozoos simbiontes capaces de secretar celulasa y descomponer la celulosa del pasto a glucosa.
-  - Las **termitas** utilizan una simbiosis microbiana similar en su tubo digestivo para digerir la madera.
 
 ---
 
 ### 6.2 Lípidos
-
-- **Definición y Propiedad Común:** Grupo de biomoléculas estructuralmente heterogéneo unificado únicamente por su comportamiento de solubilidad: **son insolubles en agua (hidrofóbicos)** y solubles en solventes orgánicos no polares (éter, cloroformo, benceno). **No forman polímeros**.
+- **Definición:** Grupo de biomoléculas estructuralmente heterogéneo unificado únicamente por ser **insolubles en agua (hidrofóbicos)** y solubles en solventes orgánicos no polares (éter, cloroformo, benceno). **No forman polímeros**.
 
 #### Principales Familias Lipídicas:
-
-#### A. Ácidos Grasos
-- Cadena hidrocarbonada lineal no polar con un grupo carboxilo terminal ($-\text{COOH}$).
-- Poseen casi siempre un **número par de átomos de carbono** en la naturaleza (generalmente de 14 a 24 carbonos).
-- *Saturados vs. Insaturados:*
-  - **Saturados:** Sin dobles enlaces en la cadena (cadenas rectas, flexibles, empaquetamiento sólido a temperatura ambiente; ej. grasa de vacuno, mantequilla).
-  - **Insaturados:** Poseen uno o más dobles enlaces de configuración *cis*. El doble enlace genera un pliegue/codo ("kink") rígido en la cadena. Esto impide el empaquetamiento denso, resultando en líquidos a temperatura ambiente (aceites vegetales).
-- **Efecto en la Fluidez de Membrana:** A mayor porcentaje de ácidos grasos insaturados en los fosfolípidos de membrana, mayor es la fluidez lipídica a bajas temperaturas.
-
-#### B. Triglicéridos (Triacilgliceroles)
-- Formados por una molécula de **glicerol** (alcohol de 3 carbonos) esterificada con **3 ácidos grasos**.
-- **Función:** Forma principal de almacenamiento de energía lipídica a largo plazo.
-- **Fisiología de los Adipocitos:**
-  - Los **adipocitos** son células del tejido adiposo especializadas en acumular triglicéridos en su citoplasma en forma de una gran gota lipídica.
-  - El empaquetamiento en triglicéridos neutros evita alterar la presión osmótica de la célula.
-  - Al ayunar o requerir energía, se activan lipasas que rompen los triglicéridos en ácidos grasos libres, los cuales salen a la sangre para ser respirados por los demás tejidos.
-  - **Aclaración sobre el peso corporal:** Adelgazar no destruye ni reduce el número de adipocitos; únicamente se vacía el contenido de triglicéridos de su interior (los adipocitos quedan "vacíos" listos para re-acumular grasa al sobrecomer).
-
-#### C. Fosfolípidos (Fosfoglicéridos)
-- Formados por glicerol + 2 cadenas de ácidos grasos (colas lipídicas no polares) + 1 grupo fosfato unido a una cabeza polar (ej. colina en la fosfatidilcolina).
-- **Moléculas Anfipáticas:**
-  - Cabeza polar hidrofílica (interactúa con el agua).
-  - Colas no polares hidrofóbicas (huyen del agua).
-- **Comportamiento en Agua:**
-  - En medio acuoso se autoensamblan espontáneamente adoptando la geometría de menor energía libre:
-    1. **Bicapa Lipídica:** Las cabezas polares se orientan hacia las fases acuosas externa e interna, dejando las colas hidrofóbicas enfrentadas hacia el interior. Estructura base de las **membranas celulares**.
-    2. **Micela:** Esfera lipídica cerrada con las cabezas polares hacia el exterior y las colas no polares agrupadas en el centro.
-
-```
-       BICAPA LIPÍDICA                            MICELA
-     O  O  O  O  O  O  O (Cabezas polares)          O  O  O
-     |  |  |  |  |  |  | (Colas hidrofóbicas)     O  ||||  O
-     |  |  |  |  |  |  |                         O - |||| - O
-     O  O  O  O  O  O  O                          O  O  O
-```
-
-#### D. Esteroides y Colesterol
-- Estructura derivada del núcleo ciclopentanoperhidrofenantreno (4 anillos hidrocarbonados fusionados).
-- **Colesterol:**
-  - Presente **ÚNICAMENTE en células y tejidos animales** (jamás en vegetales; las etiquetas comerciales de aceites vegetales que anuncian "sin colesterol" son redundantes).
-  - Componente regulador clave de la fluidez de las membranas plasmáticas animales.
-  - Precursor biosintético de las hormonas esteroideas (estrógenos, progesterona, testosterona, cortisol, aldosterona) y de los ácidos biliares.
+1. **Ácidos Grasos:** Cadenas hidrocarbonadas lineales no polares con un grupo carboxilo terminal ($-\text{COOH}$). Poseen número par de carbonos (14 a 24).
+   - *Saturados:* Sin dobles enlaces (cadenas rectas, sólidos a temperatura ambiente).
+   - *Insaturados:* Con dobles enlaces *cis* que generan codos ("kinks") impidiendo el empaquetamiento rígido (líquidos a temperatura ambiente). Aumentan la fluidez de membrana.
+2. **Triglicéridos:** 1 glicerol + 3 ácidos grasos (uniones éster). Almacenamiento de energía en **adipocitos**. Adelgazar vacía el contenido de triglicéridos pero mantiene el número de adipocitos.
+3. **Fosfolípidos:** Glicerol + 2 ácidos grasos + 1 grupo fosfato con cabeza polar. Moléculas **anfipáticas**. Forman bicapas lipídicas (membrana celular) y micelas.
+4. **Esteroides y Colesterol:** 4 anillos de carbono. **Colesterol exclusivo de células animales** (precursor de hormonas esteroideas y sales biliares; modulador de fluidez).
 
 ---
 
 ### 6.3 Proteínas
-
-- **Monómeros:** **Aminoácidos** (existen 20 a 21 aminoácidos estándar en los seres vivos).
-- **Estructura General de un Aminoácido:**
-  - Un átomo de carbono central llamado **Carbono alfa ($\text{C}_\alpha$)**.
-  - Unido covalentemente a:
-    1. Un grupo amino ($-\text{NH}_2$).
-    2. Un grupo carboxilo ($-\text{COOH}$).
-    3. Un átomo de Hidrógeno ($-\text{H}$).
-    4. Una cadena lateral o **Grupo Resto ($-\text{R}$)** variable.
-
-```
-          H
-          |
-  H2N -- C_alpha -- COOH
-          |
-          R  (Grupo variable que define las propiedades del AA)
-```
-
-- **Aminoácidos Esenciales:**
-  - Aminoácidos que el organismo humano no puede sintetizar bioquímicamente a partir de otros precursores.
-  - **Deben ser aportados obligatoriamente en la dieta diaria**: Leucina, Isoleucina, Valina, Metionina, Lisina, Fenilalanina, Triptófano, Treonina, Histidina y Arginina. Su deficiencia grave puede causar enfermedad o la muerte.
-
-#### El Enlace Peptídico
-- Enlace covalente formado por reacción de condensación entre el grupo carboxilo ($-\text{COOH}$) de un aminoácido y el grupo amino ($-\text{NH}_2$) del siguiente, eliminando una molécula de agua ($\text{H}_2\text{O}$).
-- **Propiedades físicas del Enlace Peptídico:**
-  - Es un enlace **semirrígido con carácter parcial de doble enlace** (los átomos del enlace se ubican en un mismo plano y no rotan libremente).
-  - Es una unión covalente **sumamente fuerte y resistente**, garantizando la estabilidad de la cadena frente al esfuerzo metabólico de su síntesis.
-- **Extremos de la Cadena Polipeptídica:** Toda cadena proteica posee un extremo **N-terminal** (grupo amino libre) y un extremo **C-terminal** (grupo carboxilo libre).
-
-```
-Aminoácido 1            Aminoácido 2                     Dipeptido
-  H  R1                   H  R2                            H  R1  O   H  R2
-  |  |                    |  |                             |  |   ||  |  |
-H2N-C--COOH   +        H2N-C--COOH  -->   H2O +      H2N---C--C---N---C--COOH
-  |                       |                                |      |   |
-  H                       H                                H      H   H
-                                                               Enlace Peptídico
-```
-
-- **Tamaños y Ejemplos:**
-  - **Péptido:** Cadenas cortas de aminoácidos (ej. Oxitocina: 9 AA).
-  - **Polipéptido / Proteína:** Cadenas largas (ej. Insulina: 51 AA; Hemoglobina; hasta la **Titina**, la proteína muscular más grande conocida, con $\sim 30.000$ AA y una masa de $2,5$ a $3$ millones de Daltons).
-
-#### Niveles de Estructura Proteica:
-1. **Estructura Primaria:** Secuencia lineal pura de aminoácidos unidos por enlaces peptídicos. Viene codificada genéticamente en el ADN.
-2. **Estructura Secundaria:** Plegamiento espacial local del esqueleto polipeptídico estabilizado por **puentes de hidrógeno** entre los grupos $-\text{C=O}$ y $-\text{N-H}$ del esqueleto. Formas principales: **$\alpha$-hélice** y **lámina $\beta$-plegada**.
-3. **Estructura Terciaria:** Plegamiento tridimensional global de toda la cadena polipeptídica (forma globular o fibrosa). Estabilizada por interacciones entre los grupos R laterales (puentes disulfuro covalentes $-\text{S-S}-$, interacciones hidrofóbicas, enlaces iónicos y puentes de H).
-4. **Estructura Cuaternaria:** Presente solo en proteínas compuestas por **múltiples subunidades polipeptídicas independientes** que se ensamblan entre sí (ej. Hemoglobina con 4 subunidades).
-
-```
-[Primaria]       --> [Secundaria]      --> [Terciaria]       --> [Cuaternaria]
--AA-AA-AA-AA-        (Alfa hélice /        (Plegamiento 3D       (Ensamblado de
-                      Lámina Beta)          globular completo)    varias subunidades)
-```
-
-- **Denaturación Proteica:** La alteración del pH o el aumento excesivo de temperatura rompe los puentes de H e interacciones débiles, perdiendo la conformación 3D nativa y su función biológica.
-- **Transporte de Lípidos Insolubles:** En la sangre, lípidos insolubles como el colesterol y triglicéridos son transportados dentro de complejos macromoleculares solubles llamados **Lipoproteínas** (HDL, LDL).
+- **Monómeros:** **Aminoácidos** (20 a 21 tipos estándar).
+- **Estructura de un Aminoácido:** Carbono alfa ($\text{C}_\alpha$) + grupo amino ($-\text{NH}_2$) + grupo carboxilo ($-\text{COOH}$) + Hidrógeno ($-\text{H}$) + Grupo Resto ($-\text{R}$).
+- **Aminoácidos Esenciales:** Deben ser aportados obligatoriamente en la dieta (Leucina, Isoleucina, Valina, Metionina, Lisina, Fenilalanina, Triptófano, Treonina, Histidina, Arginina).
+- **Enlace Peptídico:** Enlace covalente fuerte y semirrígido formado por condensación entre el $-\text{COOH}$ de un AA y el $-\text{NH}_2$ del siguiente.
+- **Niveles de Estructura Proteica:**
+  1. Primaria (secuencia lineal codificada en ADN).
+  2. Secundaria ($\alpha$-hélice y lámina $\beta$-plegada por puentes de H).
+  3. Terciaria (plegamiento 3D por puentes disulfuro, interacciones hidrofóbicas y enlaces iónicos).
+  4. Cuaternaria (ensamblado de varias subunidades polipeptídicas, ej. Hemoglobina).
 
 ---
 
 ### 6.4 Ácidos Nucleicos y Nucleótidos
-
-- **Monómeros:** **Nucleótidos**.
-- **Estructura de un Nucleótido:**
-  1. Una **Base Nitrogenada** (Purinas o Pirimidinas).
-  2. Un **Azúcar de 5 carbonos (Pentosa)**: Ribosa en ARN, Desoxirribosa en ADN.
-  3. De 1 a 3 **Grupos Fosfato**.
-
-```
-Base Nitrogenada -- Pentosa (Ribosa/Desoxirribosa) -- Fosfato(s)
-```
-
-#### Bases Nitrogenadas:
-- **Purinas (2 anillos fusionados):** Adenina ($\text{A}$) y Guanina ($\text{G}$).
-- **Pirimidinas (1 anillo sencillo):** Citosina ($\text{C}$), Timina ($\text{T}$, exclusiva del ADN) y Uracilo ($\text{U}$, exclusivo del ARN).
-
-#### Nucleótidos Libres y Moneda Energética:
-- **ATP (Adenosina Trifosfato):** Formado por Adenina + Ribosa + 3 grupos fosfato.
-- **Enlace de Alta Energía:** El tercer grupo fosfato está unido mediante un enlace fosfoanhídrico de alta energía. Al hidrolizarse:
-  $$\text{ATP} \rightarrow \text{ADP} + \text{P}_i + \text{Energía}$$
-- El ATP actúa como la **moneda energética universal de la célula**. La energía liberada por el catabolismo se utiliza para fosforilar ADP a ATP, y el ATP se rompe donde la célula requiere realizar trabajo (anabolismo, transporte activo, contracción).
-- Existencia de otros nucleótidos trifosfatados análogos con enlaces de alta energía en su tercer fosfato: **GTP**, **CTP**, **UTP**, **TTP**.
-
-```
-ATP = Adenina - Ribosa - (P) ~ (P) ~ (P) <-- Enlace fosfato terminal de ALTA ENERGÍA
-```
-
-#### Comparación Cuantitativa entre ADN y ARN:
-
-| Característica | ADN (Ácido Desoxirribonucleico) | ARN (Ácido Ribonucleico) |
-| :--- | :--- | :--- |
-| **Pentosa** | **Desoxirribosa** (carece del $-OH$ en el C2') | **Ribosa** (posee el $-OH$ en el C2') |
-| **Bases Nitrogenadas** | Adenina, Guanina, Citosina y **Timina ($\text{T}$)** | Adenina, Guanina, Citosina y **Uracilo ($\text{U}$)** |
-| **Cadenas** | **Doble cadena helicoidal** antiparalela | **Cadena simple** (monocatenario) |
-| **Uniones de Cadenas** | Puentes de H entre bases complementarias | Enlaces fosfodiéster en la cadena lineal |
-| **Extremos Cadenas** | Extremo $5'$ (fosfato libre) y Extremo $3'$ (OH libre) | Extremo $5'$ (fosfato libre) y Extremo $3'$ (OH libre) |
-| **Función Principal** | Almacenamiento del código genético nuclear | Transcripción, traducción y síntesis proteica |
-
-#### Complementariedad de Bases en el ADN (Reglas Mnemotécnicas):
-- La doble hélice de ADN se estabiliza mediante puentes de hidrógeno específicos entre purinas (2 anillos) y pirimidinas (1 anillo):
-  - **Adenina ($\text{A}$) con Timina ($\text{T}$):** Forman **2 puentes de hidrógeno**.  
-    *Regla mnemotécnica:* **A**níbal **T**roilo (o **Á**ngel **T**orres).
-  - **Citosina ($\text{C}$) con Guanina ($\text{G}$):** Forman **3 puentes de hidrógeno** (unión más fuerte).  
-    *Regla mnemotécnica:* **C**arlos **G**ardel.
-- Los puentes de hidrógeno débiles permiten que la doble hélice se abra ("cierre relámpago") durante la transcripción y la replicación sin romper los enlaces covalentes del esqueleto azúcar-fosfato.
-
-#### El Código Genético:
-- El código genético se escribe con las 4 bases ($A, T, C, G$).
-- Se lee en tripletes de bases llamadas **codones**.
-- Con 4 letras leídas de a 3, existen **$4^3 = 64$ combinaciones posibles** de codones para codificar los $20$ aminoácidos.
-- **Código Degenerado / Redundante:** Como hay 64 codones y solo 20 aminoácidos, varios codones distintos pueden codificar el mismo aminoácido.
-
----
-
-## 7. Preguntas Frecuentes y Claves para Resolver las Autoevaluaciones
-
-1. **¿Por qué el agua disuelve sales como el $\text{NaCl}$ pero no aceites?**  
-   *Respuesta:* El agua posee una elevada constante dieléctrica y un momento dipolar permanente que le permite solvatar iones positivos y negativos ordenando sus dipolos alrededor de ellos. Las sustancias no polares carecen de dipolos o cargas para interactuar favorablemente con el agua.
-
-2. **¿Por qué la celulosa no es digerible por el ser humano pero el almidón sí?**  
-   *Respuesta:* El almidón posee uniones $\alpha-1,4$ glucosídicas que las enzimas humanas (amilasas) pueden hidrolizar. La celulosa posee uniones $\beta-1,4$ glucosídicas para las cuales el ser humano carece de enzimas (celulasas).
-
-3. **¿Cuál es la diferencia entre el medio interno y el contenido estomacal respecto al pH?**  
-   *Respuesta:* El medio interno (plasma/intersticio) se mantiene estrictamente a $\text{pH } 7,4$. La luz del estómago tiene un $\text{pH } 1,5-2,0$, pero topológicamente pertenece al medio externo, aislado por barreras epiteliales.
-
-4. **¿Por qué las grasas/ácidos grasos liberan más energía por gramo que los carbohidratos?**  
-   *Respuesta:* Porque las cadenas de los ácidos grasos están mucho más reducidas (poseen menos oxígeno y más átomos de $\text{C}-\text{H}$) que los carbohidratos, permitiendo mayor grado de oxidación en el catabolismo.
-
-5. **¿Qué determina la fluidez de las membranas biológicas a bajas temperaturas?**  
-   *Respuesta:* La proporción de ácidos grasos insaturados con dobles enlaces *cis*, los cuales introducen pliegues ("kinks") en las colas hidrofóbicas, impidiendo su cristalización o empaquetamiento rígido.
-
-6. **¿Cuántos glóbulos rojos de $10\ \mu\text{m}$ entran en $1\text{ mm}$?**  
-   *Respuesta:* $1\text{ mm} = 1000\ \mu\text{m}$. Entran $\frac{1000}{10} = 100$ glóbulos rojos ($10^2$).
+- **Monómeros:** **Nucleótidos** (Base nitrogenada + Pentosa + Fosfato).
+- **ATP (Adenosina Trifosfato):** Moneda energética celular. El tercer enlace fosfato es de alta energía ($\text{ATP} \rightarrow \text{ADP} + \text{P}_i$).
+- **ADN vs. ARN:**
+  - ADN: Desoxirribosa, bases A, T, C, G, doble cadena antiparalela helicoidal. Complementariedad: $\text{A-T}$ (2 puentes de H, Aníbal Troilo / Ángel Torres) y $\text{C-G}$ (3 puentes de H, Carlos Gardel).
+  - ARN: Ribosa, bases A, U, C, G (Uracilo reemplaza a Timina), cadena simple.
+- **Código Genético:** Lectura en tripletes o codones ($4^3 = 64$ combinaciones para 20 aminoácidos = código degenerado).
 
 ---
 *Fin de los apuntes completos de la Clase 01.*
