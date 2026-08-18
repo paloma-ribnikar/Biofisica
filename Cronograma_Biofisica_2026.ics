@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UNSAM//Biofisica Cronograma 2026//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Biofísica - 2do Cuatrimestre 2026
+X-WR-TIMEZONE:America/Argentina/Buenos_Aires
+BEGIN:VTIMEZONE
+TZID:America/Argentina/Buenos_Aires
+X-LIC-LOCATION:America/Argentina/Buenos_Aires
+BEGIN:STANDARD
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:-03
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:biofisica-2026-session-01@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260808T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260808T130000
+SUMMARY:Biofísica - Teórico 1: Metabolismo Celular 1
+DESCRIPTION:Docente: A. Mazzadi\nActividades: Presentación del curso\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:biofisica-2026-session-02@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260815T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260815T130000
+SUMMARY:Biofísica - Teórico 2: Metabolismo Celular 2
+DESCRIPTION:Docente: A. Mazzadi\nActividades: Resolución de cuestionarios dirigidos\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:biofisica-2026-session-03@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260822T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260822T130000
+SUMMARY:Biofísica - Teórico 3: Interacción ligando-receptor
+DESCRIPTION:Docente: A. Mazzadi\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:biofisica-2026-session-04@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260829T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260829T130000
+SUMMARY:Biofísica - Teórico 4: Compartimientos biológicos - Transporte
+DESCRIPTION:Docente: G. Vega\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:biofisica-2026-session-05@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260905T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260905T130000
+SUMMARY:Biofísica - Teórico 5: Transporte y equilibrios iónicos 1
+DESCRIPTION:Docente: G. Vega\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:biofisica-2026-session-06@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260912T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260912T130000
+SUMMARY:Biofísica - Teórico 6: Transporte y equilibrios iónicos 2
+DESCRIPTION:Docente: G. Vega\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:biofisica-2026-session-07@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260919T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260919T130000
+SUMMARY:Biofísica - Clase de repaso
+DESCRIPTION:Docente: G. Vega – A. Mazzadi\nActividades: Resolución de problemas\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:biofisica-2026-session-08@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260926T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260926T130000
+SUMMARY:Biofísica - 🚨 PRIMERA EVALUACIÓN PARCIAL
+DESCRIPTION:Docente: A. Mazzadi / G. Vega\nActividades: Primera Evaluación Parcial\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:biofisica-2026-session-09@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261003T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261003T130000
+SUMMARY:Biofísica - Teórico 7: Hemodinámia
+DESCRIPTION:Docente: A. Mazzadi\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:biofisica-2026-session-10@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261010T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261010T130000
+SUMMARY:Biofísica - Teórico 8: Sangre; Sistema Cardiovascular I
+DESCRIPTION:Docente: A. Mazzadi\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:biofisica-2026-session-11@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261017T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261017T130000
+SUMMARY:Biofísica - Teórico 9: Sistema Cardiovascular II
+DESCRIPTION:Docente: A. Mazzadi\nActividades: Problemas de hemodinámia\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:biofisica-2026-session-12@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261024T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261024T130000
+SUMMARY:Biofísica - Teórico 9: El sistema respiratorio
+DESCRIPTION:Docente: G. Vega\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:biofisica-2026-session-13@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261031T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261031T130000
+SUMMARY:Biofísica - Teórico 10: Difusión y transporte de gases; Mecánica Respiratoria
+DESCRIPTION:Docente: G. Vega\nActividades: Problemas de respiratorio\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:biofisica-2026-session-14@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261107T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261107T130000
+SUMMARY:Biofísica - Teórico 11: Sistema Renal
+DESCRIPTION:Docente: A. Mazzadi\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:biofisica-2026-session-15@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261114T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261114T130000
+SUMMARY:Biofísica - Teórico 12: Filtrado glomerular; reabsorción y secreción tubular
+DESCRIPTION:Docente: A. Mazzadi\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:biofisica-2026-session-16@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261121T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261121T130000
+SUMMARY:Biofísica - 🚨 SEGUNDA EVALUACIÓN PARCIAL
+DESCRIPTION:Docente: A. Mazzadi / G. Vega\nActividades: Segunda Evaluación Parcial\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:biofisica-2026-session-17@unsam.edu.ar
+DTSTAMP:20260811T093451Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261128T090000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261128T130000
+SUMMARY:Biofísica - 🔄 RECUPERATORIOS
+DESCRIPTION:Docente: A. Mazzadi / G. Vega\nActividades: Recuperatorios\nMateria: Biofísica - Ingeniería Biomédica (UNSAM)\nHorario: Sábados 9:00 - 13:00 hs
+LOCATION:Aula 15, Campus Miguelete, UNSAM
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
