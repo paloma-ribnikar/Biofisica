@@ -4,7 +4,7 @@
 
 > [!IMPORTANT]
 > **Propósito de estos apuntes:**  
-> Este documento constituye un compendio **ultra detallado y explícito** de la **Clase 02 de Biofísica**, enfocada en el tema de **Metabolismo Celular, Termodinámica Biológica, Reacciones REDOX, Enzimas, Fotosíntesis, Fijación de Nitrógeno y Tensoactivos**. Ha sido redactado integrando de forma rigurosa:
+> Este documento constituye un compendio **ultra detallado, explícito y completo** de la **Clase 02 de Biofísica**, enfocada en el tema de **Metabolismo Celular, Termodinámica Biológica, Reacciones REDOX, Enzimas, Respiración Celular, Fotosíntesis, Agua Metabólica, Fijación de Nitrógeno y Tensoactivos**. Ha sido redactado integrando de forma rigurosa:
 > 1. Las transcripciones textuales de los audios grabados en el aula (fragmentos 88 al 173).
 > 2. Los tres PowerPoints presentados para la Clase 2 (*Metabolismo*, *Fosfolípidos, detergentes y tensión superficial* y *La fotosíntesis*).
 > 3. **Todas las anotaciones manuscritas tomadas en los márgenes de las diapositivas**.
@@ -19,15 +19,15 @@
 
 ### 1.1 El Organismo Vivo como Sistema Abierto (Anotaciones de Margen)
 - **Sistema Abierto:** El organismo viviente es un sistema abierto que intercambia continuamente **materia y energía** con su entorno:
-  - **Intercambio de Energía:** Entrada de energía lumínica (en plantas) y química (en alimentos); salida de calor disipado y trabajo mecánico.
+  - **Intercambio de Energía:** Entrada de energía lumínica (en plantas) y energía química (en alimentos); salida de calor disipado y trabajo mecánico.
   - **Intercambio de Materia:**
-  - **Incorporación:** Nutrientes y agua a través de la **ingestión (sistema digestivo)**; oxígeno ($\text{O}_2$) a través de la **ventilación pulmonar (sistema respiratorio)**.
-  - **Eliminación:** Dióxido de carbono ($\text{CO}_2$) a través de la espiración pulmonar; urea, sales y desechos metabólicos a través de la **excreción renal (orina)**, la materia fecal y la **sudoración**.
+    - **Incorporación:** Nutrientes y agua a través de la **ingestión (sistema digestivo)**; oxígeno ($\text{O}_2$) a través de la **ventilación pulmonar (sistema respiratorio)**.
+    - **Eliminación:** Dióxido de carbono ($\text{CO}_2$) a través de la espiración pulmonar; urea, sales y desechos metabólicos a través de la **excreción renal (orina)**, la materia fecal y la **sudoración**.
 - **Metabolismo:** Conjunto de todas las reacciones bioquímicas y procesos fisicoquímicos organizados que ocurren en la célula y el organismo.
 - **Factores Físico-Químicos que Afectan la Función Proteica:**
   - *Anotación explícita de margen:* Las reacciones metabólicas tienden a **modificar el pH y la Temperatura** del medio.
-  - **Variación de pH:** Modifica la estructura de las moléculas y proteínas, pudiendo cambiar o inactivar su función biológica.
-  - **Variación de Temperatura:** Causa la **ruptura de la estructura terciaria y cuaternaria**, conduciendo a la **denaturación proteica** (ejemplo cotidiano: la clara de huevo que se coagula/desnaturaliza al calentarse).
+  - **Variación de pH:** Modifica la estructura tridimensional de las moléculas y proteínas, pudiendo alterar o inactivar por completo su función biológica.
+  - **Variación de Temperatura:** Causa la **ruptura de la estructura terciaria y cuaternaria**, conduciendo a la **denaturación proteica** (ejemplo cotidiano: la clara de huevo que se coagula/desnaturaliza irreversiblemente al calentarse).
 - **Acción de los Sistemas Buffer:**
   - Estando presente un sistema buffer en el medio de reacción, el pH **no se modifica significativamente con el agregado de protones ($\text{H}^+$) o de hidroxilos ($\text{OH}^-$)**.
   - Los buffers trabajan dentro de un **rango de pH determinado** (ej. buffer que actúa en un rango de pH entre 5 y 7). Existen distintos buffers en el organismo que actúan a diferentes niveles y compartimentos.
@@ -143,49 +143,142 @@
 - **Oxidación:** Pérdida de electrones ($\text{e}^-$) o de átomos de Hidrógeno ($\text{H}^+$). El elemento pasa a un nivel de menor energía (+ estable), resultando en un **proceso exergónico**. Ej: $\text{Fe}^{+2} \rightarrow \text{Fe}^{+3} + \text{e}^-$.
 - **Reducción:** Ganancia de electrones ($\text{e}^-$) o de átomos de Hidrógeno ($\text{H}^+$).
 
-### 4.2 Reacciones Especiales del Cuestionario
-1. $2\text{H}_2\text{O} \rightarrow 2\text{H}_2 + \text{O}_2$: Reacción de descomposición catabólica pero **NO es exergónica** (es endotérmica, no involucra biomoléculas).
-2. **Respiración de Lípidos y Agua Metabólica (Anotación de Margen):**
-   - La respiración celular de ácidos grasos (como el ácido palmítico $\text{C}_{16}\text{H}_{32}\text{O}_2$) produce grandes cantidades de **agua metabólica ($\text{H}_2\text{O}$)**.
-   - *Ejemplo biológico anotado:* Los **camellos** almacenan grasa en sus jorobas no para obtener agua directa, sino porque al respirar catabólicamente esa grasa producen inmensas cantidades de agua metabólica interna que les permite sobrevivir en el desierto sin beber agua por largos períodos.
+### 4.2 Respiración de Lípidos y Producción de Agua Metabólica (El Ejemplo del Camello)
+- **¿Qué es el Agua Metabólica?**  
+  El agua metabólica es el agua libre ($\text{H}_2\text{O}$) producida dentro de las células como subproducto bioquímico directo de la oxidación catabólica de biomoléculas ricas en Hidrógeno (especialmente los ácidos grasos/lípidos) durante la respiración celular.
+- **Mecanismo Bioquímico:**  
+  Al catabolizar y respirar un ácido graso como el **Ácido Palmítico ($\text{C}_{16}\text{H}_{32}\text{O}_2$)**, la ecuación de oxidación completa es:
+  $$\text{C}_{16}\text{H}_{32}\text{O}_2 + 23\text{O}_2 \rightarrow 16\text{CO}_2 + \mathbf{16\text{H}_2\text{O}} + \text{Energía (ATP)}$$
+  - Por cada molécula de ácido graso respirado, ¡se producen **16 moléculas puras de agua metabólica** dentro de la célula!
+- **El Ejemplo del Camello (Fisiología del Desierto):**  
+  - *Mito común:* "Los camellos almacenan agua líquida en sus jorobas". **Falso.**
+  - *Realidad explicada en clase:* Las jorobas de los camellos contienen **grandes depósitos de tejido adiposo (triglicéridos/grasa)**.
+  - Cuando el camello pasa semanas en el desierto sin beber agua líquida del entorno, sus células movilizan y **respiran los ácidos grasos** de la joroba. La reducción del oxígeno al final de la cadena respiratoria genera inmensas cantidades de **AGUA METABÓLICA ($\text{H}_2\text{O}$)** en sus células, cubriendo sus necesidades hídricas sin necesidad de ingerir líquido del exterior.
 
 ---
 
-## 5. Respiración Celular vs. Combustión
+## 5. La Respiración Celular: Vía Central del Metabolismo
 
 ```
-   OXIDACIÓN DE GLUCOSA                     SÍNTESIS DE ATP
-C6H12O6 + 6 O2 --> 6 CO2 + 6 H2O  ===>  ADP + Pi --> ATP (Moneda Energética)
-  (Exergónico / Catabólico)                (Endergónico / Anabólico)
+               PROTEÍNAS                  CARBOHIDRATOS (GLUCOSA)            LÍPIDOS
+                   |                                |                           |
+                   v                                v                           v
+          [Aminoácidos]                    [Glucosa / Hexosas]           [Ácidos Grasos / Glicerol]
+                   |                                |                           |
+                   +----------------------->  VÍA CENTRAL  <--------------------+
+                                            DEL METABOLISMO
+                                    (Glucólisis -> Krebs -> Cadena)
+                                                    |
+                                                    v
+                                      CO2 + H2O + ATP / GTP (Energía)
 ```
 
-- **Respiración Celular Aeróbica:**
-  - Vía central del metabolismo en la que confluyen glúcidos, lípidos y proteínas.
-  - Consiste en la oxidación controlada de la glucosa en múltiples pasos acoplados a la síntesis de **ATP** ($\text{ADP} + \text{P}_i \rightarrow \text{ATP}$).
-  - El $\text{O}_2$ consumido procede del proceso de **ventilación pulmonar** transportado por la **hemoglobina**.
-  - El $\text{CO}_2$ producido es transportado por el plasma sanguíneo y se expira por los pulmones.
-- **Rendimiento:**
-  - **Anaeróbico (Citosol):** $2\text{ ATP}$ por glucosa (ej. fermentación láctica en músculo esquelético).
-  - **Aeróbico (Mitocondria):** Hasta $38\text{ ATP}$ por glucosa.
+### 5.1 La Vía Central del Metabolismo y Vías Confluyentes
+- **Vía Central:** La respiración celular es el "tronco principal" o **vía central del metabolismo**.
+- **Confluencia de Biomoléculas:**  
+  Aunque la glucosa es la sustrato primario de preferencia, **todas las biomoléculas convergen en esta vía central**:
+  - Los **Carbohidratos** ingresan directamente como glucosa.
+  - Los **Lípidos** (ácidos grasos y glicerol) se clivan y se convierten en intermediarios que entran a la vía central.
+  - Las **Proteínas** (aminoácidos) se desaminan y entran como cetoácidos en diversos puntos de la vía central.
+- **La Glucosa como Primera Opción (La Vía Más Directa):**  
+  - La glucosa es la **1° opción en ser quemada** por las células si está disponible.
+  - Es la vía metabólica más directa, rápida y eficiente para obtener energía celular (el cerebro, por ejemplo, consume casi exclusivamente glucosa en condiciones normales).
+  - Si falta glucosa, la célula activa vías para quemar lípidos o proteínas secundariamente.
 
 ---
 
-## 6. Fotosíntesis y Fijación Biológica de Nitrógeno
+### 5.2 Procesos en Paralelo: Degradación Catabólica y Síntesis de ATP/GTP
 
-### 6.1 Fotosíntesis en Plantas
-- **Ecuación:** $6\text{CO}_2 + 6\text{H}_2\text{O} + \text{Energía Lumínica} \rightarrow \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2$
-- Ocurre únicamente durante los períodos de luz solar en los cloroplastos de las partes verdes de las plantas (la clorofila absorbe en el espectro visible de $400 - 700\text{ nm}$).
-- El $\text{CO}_2$ se **reduce** a glucosa y el $\text{H}_2\text{O}$ se **oxida** liberando $\text{O}_2$ libre a la atmósfera (necesario para la respiración de los seres vivos).
+La respiración celular realiza **dos procesos simultáneos y acoplados en paralelo**:
 
-### 6.2 Hipótesis de Van Niel y Tiobacterias Púrpuras
+$$\begin{aligned}
+\text{Proceso 1 (Catabólico / Exergónico):} \quad & \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2 \rightarrow 6\text{CO}_2 + 6\text{H}_2\text{O} \\
+\text{Proceso 2 (Anabólico / Endergónico en paralelo):} \quad & \text{ADP} + \text{P}_i \rightarrow \mathbf{\text{ATP / GTP}} \quad (\text{Nucleótidos de Alta Energía})
+\end{aligned}$$
+
+1. **Escisión y Oxidación de la Biomolécula (Proceso 1):**  
+   - La glucosa se **cliva (rompe)** progresivamente a lo largo de decenas de pasos enzimáticos.
+   - Es un proceso **catabólico, exergónico y oxidativo**.
+   - El $\text{O}_2$ (procedente de la ventilación pulmonar transportado por la hemoglobina) se **reduce al aceptar protones ($\text{H}^+$) y electrones ($\text{e}^-$) para formar agua ($\text{H}_2\text{O}$)**. ¡Por eso es una **reacción REDOX**!
+   - El dióxido de carbono ($\text{CO}_2$) producido se transporta por la sangre y se elimina al exterior en la espiración pulmonar.
+2. **Síntesis de la Moneda Energética en Paralelo (Proceso 2):**  
+   - En paralelo con la degradación de la glucosa, la energía liberada se acopla para sintetizar **ATP** (y en ciertos pasos **GTP**), que son **nucleótidos de alta energía**.
+   - La célula "quema" la glucosa con el propósito principal de **sintetizar otra biomolécula energética (ATP)**.
+
+---
+
+### 5.3 ¿Qué pasaría SIN Enzimas vs. CON Enzimas?
+
+- **Sin Enzimas (Combustión Incontrolada):**  
+  - Si quemamos un terrón de azúcar con un fósforo en el aire, la glucosa reacciona con el $\text{O}_2$ en un solo paso violento y no regulado.
+  - Toda la energía contenida en los enlaces de la glucosa se disipa al instante en forma de **luz y calor** ($100\%$ de pérdida térmica, $0\%$ trabajo útil).
+- **Con Enzimas (Respiración Celular Regulada):**  
+  - En la célula, la reacción transcurre mediante un **proceso de múltiples pasos discretos ($\text{Glucosa} \rightarrow X \rightarrow X' \rightarrow X'' \rightarrow X'''$) regulado por enzimas**.
+  - En lugar de liberar luz y fuego, cada paso liberador de energía se acopla con alta eficiencia a la recarga de **ATP / GTP**, permitiendo a la célula realizar trabajo biológico.
+
+---
+
+### 5.4 Respiración Aeróbica vs. Anaeróbica
+- **Respiración Anaeróbica / Fermentación:**  
+  - Ocurre en el **citosol**. No requiere $\text{O}_2$.
+  - La glucosa de 6 carbonos se escinde en 2 moléculas de ácido pirúvico/lactato.
+  - Rinde solo **$2\text{ ATP}$ por glucosa**. (Utilizado por músculos esqueléticos durante ejercicio de alta intensidad).
+- **Respiración Aeróbica:**  
+  - Ocurre en la **mitocondria**. Requiere obligatoriamente $\text{O}_2$.
+  - Oxidación completa de los carbonos hasta $\text{CO}_2$ y transferencia de electrones al $\text{O}_2$ para formar agua.
+  - Rendimiento masivo: **hasta $38\text{ ATP}$ por glucosa**.
+
+---
+
+## 6. La Fotosíntesis: Anabolismo, Espectro de Luz y Fijación de Nitrógeno
+
+```
+                        FOTOSÍNTESIS EN LAS PLANTAS
+                                     |
+               +---------------------+---------------------+
+               |                                           |
+     FASE LUMINOSA (Luz Solar)                   FASE BASCULAR / SÍNTESIS
+- Absorción: Espectro visible (400-700 nm)   - Reducción del CO2 atmosférico
+- Fotólisis del H2O (prov. raíces)            - Síntesis de Glucosa (C6H12O6)
+- Liberación de O2 libre a la atmósfera        - Rutas secundarias: Lípidos, Proteínas,
+  (necesario p/ Respiración Aeróbica)            Fijación de N2 con bacterias simbiontes
+```
+
+### 6.1 Ecuación y Proceso Anabólico
+- **Ecuación General:**  
+  $$6\text{CO}_2 + 6\text{H}_2\text{O} + \text{Energía Lumínica} \rightarrow \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2$$
+- **Características:**  
+  - Proceso **anabólico, endergónico y reductor**.
+  - Ocurre exclusivamente en las **partes verdes de las plantas** (órganos con cloroplastos).
+  - Ocurre **únicamente durante el período de luz solar**.
+- **Mecanismo:**  
+  - La planta capta $\text{CO}_2$ de la atmósfera a través de los estomas.
+  - Absorbe agua ($\text{H}_2\text{O}$) proveniente de las raíces.
+  - La clorofila capta energía fotónica del **espectro visible de la luz solar (longitudes de onda de $400\text{ nm a } 700\text{ nm}$)**, absorbiendo en el azul y rojo y reflejando el **color verde**.
+  - Los átomos de Carbono del $\text{CO}_2$ **se reducen** para formar la molécula de **glucosa ($\text{C}_6\text{H}_{12}\text{O}_6$)**.
+  - El $\text{H}_2\text{O}$ se **oxida (fotólisis del agua)** y libera **Oxígeno gaseoso libre ($\text{O}_2$)** a la atmósfera.
+  - **Importancia ecológica:** El $\text{O}_2$ liberado por las plantas es el gas vital imprescindible para la **respiración aeróbica** de todos los animales y seres vivos heterótrofos del planeta.
+
+---
+
+### 6.2 Rutas Secundarias y Fijación Biológica de Nitrógeno ($\text{N}_2$)
+
+- **Generación de otras Biomoléculas:**  
+  A partir de la glucosa sintetizada en la fotosíntesis, la planta deriva **rutas metabólicas secundarias** para sintetizar otros carbohidratos complejos (almidón, celulosa), **lípidos** (aceites vegetales) y aminoácidos.
+- **El Problema del Nitrógeno ($\text{N}_2$):**  
+  - El Nitrógeno gaseoso ($\text{N}_2$) es el gas más abundante de la atmósfera (**$78\%$ del aire**).
+  - Sin embargo, las plantas y animales **NO pueden fijar ni utilizar el $\text{N}_2$ gaseoso directamente** de la atmósfera.
+- **Simbiosis Microbiana y Fijación:**  
+  - Existen **bacterias fijadoras de nitrógeno** (en el suelo o asociadas en simbiósis en los **nódulos radiculares** de las raíces de las plantas leguminosas).
+  - Estas bacterias toman el $\text{N}_2$ atmosférico del aire y lo **convierten químicamente en sales de nitrógeno (nitratos/amonio)** utilizables en el suelo.
+  - La planta absorbe estas sales nitrogenadas por la raíz y, combinándolas con los esqueletos carbonados de la glucosa, sintetiza **aminoácidos, proteínas, nucleótidos y ácidos nucleicos**.
+
+---
+
+### 6.3 Hipótesis de Van Niel y Tiobacterias Púrpuras
 - Las tiobacterias púrpuras utilizan $\text{H}_2\text{S}$ en lugar de $\text{H}_2\text{O}$, liberando Azufre elemental ($\text{S}$).
 - Ecuación generalizada: $\text{CO}_2 + 2\text{H}_2\text{A} + \text{Luz} \rightarrow (\text{CH}_2\text{O}) + \text{H}_2\text{O} + 2\text{A}$.
 - Confirmado mediante la utilización del isótopo pesado $^{18}\text{O}$ en $\text{H}_2^{18}\text{O}$.
-
-### 6.3 Fijación Biológica de Nitrógeno ($\text{N}_2$) (Anotación de Margen)
-- El Nitrógeno gaseoso ($\text{N}_2$) constituye el **$78\%$ de la atmósfera terrestre**, pero las plantas y animales **NO pueden fijarlo ni incorporarlo directamente**.
-- **Bacterias Fijadoras de Nitrógeno:** Bacterias de vida libre en el suelo o simbióticas (en los nódulos radiculares de leguminosas) toman el $\text{N}_2$ atmosférico y lo convierten en sales de nitrógeno (nitratos/amonio).
-- La planta absorbe estas sales del suelo y, junto con la glucosa de la fotosíntesis, sintetiza los demás compuestos orgánicos necesarios (aminoácidos, proteínas y nucleótidos).
 
 ---
 
